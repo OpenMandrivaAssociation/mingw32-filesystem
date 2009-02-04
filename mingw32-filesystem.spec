@@ -2,7 +2,7 @@
 
 Name:           mingw32-filesystem
 Version:        46
-Release:        %mkrel 1
+Release:        %mkrel 2
 Summary:        MinGW base filesystem and environment
 
 Group:          Development/Other
