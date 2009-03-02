@@ -1,8 +1,8 @@
 %define debug_package %{nil}
 
 Name:           mingw32-filesystem
-Version:        46
-Release:        %mkrel 2
+Version:        49
+Release:        %mkrel 1
 Summary:        MinGW base filesystem and environment
 
 Group:          Development/Other
@@ -49,7 +49,8 @@ Provides:       mingw32(user32.dll)
 Provides:       mingw32(wldap32.dll)
 Provides:       mingw32(glut32.dll)
 Provides:       mingw32(secur32.dll)
-
+Provides:       mingw32(cfgmgr32.dll)
+Provides:       mingw32(setupapi.dll)
 
 %description
 This package contains the base filesystem layout, RPM macros and
