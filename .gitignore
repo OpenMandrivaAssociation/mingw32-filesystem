@@ -1,0 +1,7 @@
+mingw32-COPYING
+mingw32-find-provides.sh
+mingw32-find-requires.sh
+mingw32-macros.mingw32
+mingw32-rpmlint.config
+mingw32-scripts.sh
+mingw32.sh
