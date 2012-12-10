@@ -1,8 +1,0 @@
-sources:
-  "mingw32-COPYING:"	17e3b0eea99abffe6ac71e65627413236e0b117a
-  "mingw32-find-provides.sh:"	055d9f92052a1a4cfc01e8998025f0ca0b0d73f8
-  "mingw32-find-requires.sh:"	c63564fadd175eddcde7590666deda505773838e
-  "mingw32-macros.mingw32:"	229e185ea6e98f683f7755bb7f166f61201dfeb9
-  "mingw32-rpmlint.config:"	20191326367ed0d032f329b471d5262ea96e5fcd
-  "mingw32-scripts.sh:"	ac94dec96c59288a13d6335a77b66423437f0a28
-  "mingw32.sh:"	9635b5fba480abd015f282cd7b3169e7bc4a18fd

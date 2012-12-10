@@ -151,3 +151,27 @@ rm -rf $RPM_BUILD_ROOT
 %{_libexecdir}/mingw32-scripts
 %{_prefix}/i586-pc-mingw32/
 /usr/lib/rpm/mingw32-*
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 49-3mdv2011.0
++ Revision: 620346
+- the mass rebuild of 2010.0 packages
+
+* Mon Sep 14 2009 Thierry Vignaud <tv@mandriva.org> 49-2mdv2010.0
++ Revision: 439814
+- rebuild
+
+* Mon Mar 02 2009 Jérôme Soyer <saispo@mandriva.org> 49-1mdv2009.1
++ Revision: 347065
+- New upstream release
+
+* Wed Feb 04 2009 Jérôme Soyer <saispo@mandriva.org> 46-2mdv2009.1
++ Revision: 337436
+- Fix arch
+
+* Wed Feb 04 2009 Jérôme Soyer <saispo@mandriva.org> 46-1mdv2009.1
++ Revision: 337383
+- Come from Fedora spec
+
+
