@@ -7,7 +7,7 @@ Summary:        MinGW base filesystem and environment
 
 Group:          Development/Other
 License:        GPLv2+
-URL:            http://hg.et.redhat.com/misc/fedora-mingw--devel/
+URL:            https://hg.et.redhat.com/misc/fedora-mingw--devel/
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:      noarch
 
